@@ -74,13 +74,5 @@ I am always eager to enhance my skills, explore emerging technologies, and work 
 | Portfolio Website | Personal website | [Repo](https://github.com/mahamwaheed680/portfolio) |
 
 ---
-
-## 📊 GitHub Stats
-![Maham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahamwaheed680&theme=dark&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahamwaheed680&layout=compact&theme=dark)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=mahamwaheed680&theme=dark)
-
----
-
 ## 👁‍🗨 Visitor Count
 [![](https://visitcount.itsvg.in/api?id=mahamwaheed680&icon=0&color=0)](https://visitcount.itsvg.in)
