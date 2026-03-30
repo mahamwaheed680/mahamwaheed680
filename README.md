@@ -13,7 +13,7 @@ I am always eager to enhance my skills, explore emerging technologies, and work 
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](// linkedin.com/in/maham-waheed- ) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/maham-waheed- ) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahamwaheed680@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=internet-explorer&logoColor=white)](https://yourportfolio.com)
 
