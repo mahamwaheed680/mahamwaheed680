@@ -63,14 +63,20 @@ I am always eager to enhance my skills, explore emerging technologies, and work 
 ---
 
 ## 📂 Featured Projects
-| Project | Description | Link |
-|---------|------------|------|
-| AI Call Agent | Twilio + Flask voice AI | [Repo](https://github.com/mahamwaheed680/ai-call-agent) |
-| MediMate | AI Health Assistant | [Repo](https://github.com/mahamwaheed680/medimate) |
-| SmartMart | Python Shopping App | [Repo](https://github.com/mahamwaheed680/smartmart) |
-| UCP Management System | React Web App | [Repo](https://github.com/mahamwaheed680/ucp-management-system) |
-| Sentiment Analysis | NLP Project | [Repo](https://github.com/mahamwaheed680/sentiment-analysis) |
-| Portfolio Website | Personal website | [Repo](https://github.com/mahamwaheed680/portfolio) |
+
+| Project | Description |
+|---------|------------|
+| JOBQUOTE | Full Stack Web-Based Job Portal Project |
+| Camera Blocker System | AI-Based Camera Security/Blocking System |
+| People Mask Detection | AI-Based Face Mask Detection System |
+| AI Call Agent | Twilio + Flask Voice AI Assistant |
+| MediMate | AI Health Assistant |
+| SmartMart | Python Shopping App |
+| UCP Management System | React Web App |
+| Sentiment Analysis | NLP-Based Sentiment Analysis Project |
+| Portfolio Website | Personal Portfolio Website |
+
+---
 
 ---
 ## 👁‍🗨 Visitor Count
