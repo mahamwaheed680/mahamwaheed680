@@ -1,6 +1,6 @@
 # 💫 Hi, I'm Maham Waheed
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=AI+Developer;Web+Developer;Full-Stack+Developer;Always+Learning)
-https://github.com/mahamwaheed680/mahamwaheed680/blob/main/README.md
+
 ---
 
 ## 👩‍💻 About Me
